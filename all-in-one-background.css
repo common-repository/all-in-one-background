@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+#aiob_background_header {
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+.a-iob-meta-box-header {
+	/*border: 1px solid #CCC;*/
+	width: 200px;
+	height: 35px;
+	font-weight: bold;
+	/*float:left;*/
+}
+
+.a-iob-meta-box-input {
+}
+
+#aiob_background_options {
+	border: 1px solid #CCC;
+	padding: 0px 30px;
+}
+
+.a-iob-background-options_line {
+	border-bottom: 1px solid #CCC;
+	padding: 15px 0px;
+}
+
+.a-iob-background-options {
+	/*border-bottom: 1px solid #CCC;*/
+	padding: 15px 0px;
+}
+
+.a-iob-posotion-custom {
+	width: 45px;
+}
+
+.a-iob-color-picker {
+	width: 55px;
+}
+
+.a-iob-image-url {
+	width: 100%;
+}
+
